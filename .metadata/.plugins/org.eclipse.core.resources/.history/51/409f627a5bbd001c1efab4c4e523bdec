@@ -1,0 +1,45 @@
+
+
+import java.util.Scanner;
+
+public class passwordWhile {
+	
+//	Pengulangan Kondisional
+	
+	public static void main(String[] args) {
+
+		
+String password;
+		
+
+		
+		Scanner sc= new Scanner(System.in);
+
+		int i=1;
+		
+		System.out.print("Masukan Password : ");password=sc.nextLine();
+		
+		while(!password.equals("999")&&i<=2) {
+				System.out.println(" ");
+				System.out.println("Password anda salah, Mohon Coba lagi");
+				i++;
+				System.out.print("Masukan Password : ");password=sc.nextLine();
+				System.out.println(" ");
+				while(i==3) {
+					System.out.println("akun anda harus diganti password");
+					i++;
+				}
+
+		}
+		
+		while(password.equals("999")&&i==1) {
+			System.out.println("Wellcome To Mobile Lagends");
+			i++;
+		}
+		
+		
+		
+	}
+
+
+}

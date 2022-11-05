@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;LuasLingkaran.java&apos; to &apos;Alpor2/src/(default package)&apos;&#x0A;- Original project: &apos;Alpor1&apos;&#x0A;- Destination element: &apos;Alpor2/src/(default package)&apos;&#x0A;- Original element: &apos;BASIC.LuasLingkaran.java&apos;" description="Copy compilation unit" destination="=Alpor2/src&lt;" element1="/src&lt;BASIC{LuasLingkaran.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1650089724820" units="1" version="1.0"/>
+</session>

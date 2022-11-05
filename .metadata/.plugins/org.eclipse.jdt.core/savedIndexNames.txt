@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/jamjam/Desktop/Tugas Java/Project Java/.metadata/.plugins/org.eclipse.jdt.core
+1480385089.index
+1865797976.index
+3469924838.index
+3241522171.index

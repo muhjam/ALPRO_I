@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/Volumes/DataMBP/Jamjam/Kampus/Semester 2/matkul/07-Algoritma Dan Pemograman I/Project Java/.metadata/.plugins/org.eclipse.jdt.core
+1816963510.index
+1480385089.index
